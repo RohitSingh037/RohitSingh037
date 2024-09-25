@@ -1,4 +1,4 @@
-_Portfolio_
+**Portfolio**
 👋 Hi, I’m @RohitSingh037
 👀 I’m passionate about learning new things and constantly improving my skills.
 🌱 I’m currently diving into Full Stack Development and mastering Data Structures.
