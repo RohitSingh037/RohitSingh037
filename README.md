@@ -1,21 +1,20 @@
-**Portfolio**
-👋 Hi, I’m @RohitSingh037
-👀 I’m passionate about learning new things and constantly improving my skills.
-🌱 I’m currently diving into Full Stack Development and mastering Data Structures.
-⚽ My hobbies include playing cricket, football, and solving puzzles.
 
-Live Demo
-Check out my portfolio website: https://rohitsingh037.github.io/RohitSingh037/
+# Portfolio
 
-Key Features
-Responsive Design: Optimized for all devices, providing a smooth experience across different screen sizes.
-React Hooks: Efficiently manages the state and lifecycle of components with modern React hooks.
-Modular Components: Built with reusable components for easy scalability and maintainability.
-Dynamic Projects Section: Add new projects seamlessly with automatic rendering.
-Interactive Contact Form: A fully functional contact form with built-in validation.
-Tech Stack
-React for building the user interface.
-JavaScript (ES6+) for interactivity and logic.
-CSS/SCSS for styling and responsiveness.
-web3forms for handling form submissions.
-Hosted on GitHub Pages, Netlify, or Vercel for fast and reliable performance.
+👋 Hi, I’m Rohit Singh (@RohitSingh037)
+
+🚀 Live Demo
+🔗 https://rohitsingh037.github.io/RohitSingh037/
+
+## 🚀 About Me
+I'm a passionate developer focused on learning new technologies and constantly improving my skills. This portfolio showcases my journey into Full Stack Development and my knowledge of Data Structures.
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, c++, Dsa
+
+
+## 📚 Lessons Learned
+
+Converting HTML, CSS, and JS to React:
+
+Deploying React Projects on GitHub:
