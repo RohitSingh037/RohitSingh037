@@ -83,13 +83,14 @@ button a {
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 90%;
-    font-weight: 100;
+    font-weight: 350;
     text-align: left;
     font-size: x-large;
     border-radius: 20px;
     padding: 20px;
     margin: 100px auto;
     max-width: 450px;
+    font-size: 1.2rem;
 }
 
 .about_me {
@@ -167,6 +168,8 @@ button a {
     width: min(400px, 80vw);
     height: min(400px, 80vw);
     margin: 10px;
+    padding: 10px;
+    background-color: #7d7d7d76;
     border-radius: 10px;
 }
 
@@ -282,10 +285,6 @@ button:hover {
         right: 15%;
         background-color: #efc80336;
         display: none;
-    }
-
-    .about {
-        font-size: 1.2rem;
     }
 }
 
