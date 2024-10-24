@@ -14,7 +14,7 @@ function Footer(props) {
                                 stroke="#141B34" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
                         </svg>
                     </a></li>
-                    <li><a href="https://www.linkedin.com/in/rohitsingh37/" target="_blank">
+                    <li><a href="https://www.linkedin.com/in/rohitsingh037/" target="_blank">
                         <svg style={{filter: (props.mode=='dark' ? 'invert(48%) sepia(79%) saturate(2476%) hue-rotate(0deg) brightness(118%) contrast(119%)' : ' saturate(2476%) brightness(118%) contrast(119%)')}} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M7 10V17" stroke="#141B34" strokeWidth="1.5" strokeLinecap="round"
                                 strokeLinejoin="round" />
@@ -28,7 +28,7 @@ function Footer(props) {
                                 stroke="#141B34" strokeWidth="1.5" strokeLinejoin="round" />
                         </svg>
                     </a></li>
-                    <li><a href="https://twitter.com/RohitSingh_37" target="_blank">
+                    <li><a href="https://twitter.com/RohitSingh037" target="_blank">
                         <svg style={{filter: (props.mode=='dark' ? 'invert(48%) sepia(79%) saturate(2476%) hue-rotate(0deg) brightness(118%) contrast(119%)' : ' saturate(2476%) brightness(118%) contrast(119%)')}} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path
                                 d="M7 17L11.1935 12.8065M17 7L12.8065 11.1935M12.8065 11.1935L9.77778 7H7L11.1935 12.8065M12.8065 11.1935L14.9032 14.0968L17 17H14.2222L11.1935 12.8065"
