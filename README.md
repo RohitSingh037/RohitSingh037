@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Rohit Singh!
 
-<img src="https://raw.githubusercontent.com/RohitSingh037/RohitSingh037/main/public/photo/rohit2.JPG" width="200">
+<div align="right">
+    <img src="https://raw.githubusercontent.com/RohitSingh037/RohitSingh037/main/public/photo/rohit2.JPG" width="200">
+</div>
 
 ### 🚀 About Me
 - 🎯 Full-Stack Developer & Data Structures Enthusiast
