@@ -18,7 +18,7 @@
 ### 📜 Submissions & Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh037&layout=compact&langs_count=10&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitSingh037&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=RohitSingh037&theme=radical)
 
 ### 🌍 Portfolio
 Check out my work: [Portfolio Website](https://rohitsingh037.github.io/RohitSingh037/)
